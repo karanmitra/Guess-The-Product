@@ -12,8 +12,8 @@ The following description of every column in the dataset.
 - Product_Category:	Class to which the product belongs.
 
 I have done the following activities:
-  a.	Exploratory Data Analysis of variables
-  b.	ML model
-  c.	Model Evaluation
-  d.	Code to generate submission.csv
+- a.	Exploratory Data Analysis of variables
+- b.	ML model
+- c.	Model Evaluation
+- d.	Code to generate submission.csv
 
